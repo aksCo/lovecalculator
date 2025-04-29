@@ -6,3 +6,4 @@ def calculate_love_score(name1, name2):
     print(love_score)
 
 calculate_love_score("Mindy","Benjamin")
+
